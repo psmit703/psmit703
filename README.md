@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi! I'm Pete Smith
+## Hi! I'm Pete Smith
 
 ---
 
-#### Website: [psmit.dev](https://www.psmit.dev)
-#### Email: [psmit703@outlook.com](mailto:psmit703@outlook.com)
-#### GitHub: [github.com/psmit703](https://github.com/psmit703)
-#### LinkedIn: [in/petesmith-umd](https://www.linkedin.com/in/petesmith-umd/)
-#### Résumé: [psmit.dev/resume.html](https://www.psmit.dev/resume.html)
+### Website: [psmit.dev](https://www.psmit.dev)
+### Email: [psmit703@outlook.com](mailto:psmit703@outlook.com)
+### GitHub: [github.com/psmit703](https://github.com/psmit703)
+### LinkedIn: [in/petesmith-umd](https://www.linkedin.com/in/petesmith-umd/)
+### Résumé: [psmit.dev/resume.html](https://www.psmit.dev/resume.html)
 
 ---
 
-#### About me
+### About me
 * I'm a Computer Science and History double-major and Trumpet Performance minor at the University of Maryland, College Park
 * I'm primarily interested in backend development but also have experience with frontend
 * I am familiar with a wide variety of languages and frameworks
@@ -38,18 +38,18 @@ Here are some ideas to get you started:
 
 ---
 
-#### Coding Projects
-##### Personal Projects
+### Coding Projects
+#### Personal Projects
 * Personal Website ([GitHub Repo](https://github.com/psmit703/personal-website))
     * Languages: HTML, CSS, JavaScript
     * Frameworks: Bootstrap, Adobe PDF Embed API
     * Jun 2023 - Present
-##### Work Projects
+#### Work Projects
 * Comet Informational Site (Code is currently private)
     * Languages: HTML, CSS, JavaScript, Python
     * Frameworks: Bootstrap, Plotly.js, jQuery
     * Jun 2023 - Present
-##### School Projects (please contant me directly ([psmit703@outlook.com](mailto:psmit703@outlook.com)) for access to code for school projects)
+#### School Projects (please contant me directly ([psmit703@outlook.com](mailto:psmit703@outlook.com)) for access to code for school projects)
 * Bloom Filter (Python)
     * CMSC420 (Advanced Data Structures) at UMD
     * Spring 2023
