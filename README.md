@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ---
 
 #### Website: [psmit.dev](https://www.psmit.dev)
+#### Email: [psmit703@outlook.com](mailto:psmit703@outlook.com)
 #### GitHub: [github.com/psmit703](https://github.com/psmit703)
 #### LinkedIn: [in/petesmith-umd](https://www.linkedin.com/in/petesmith-umd/)
 #### Résumé: [psmit.dev/resume.html](https://www.psmit.dev/resume.html)
@@ -48,9 +49,9 @@ Here are some ideas to get you started:
     * Languages: HTML, CSS, JavaScript, Python
     * Frameworks: Bootstrap, Plotly.js, jQuery
     * Jun 2023 - Present
-##### School Projects (Please contant me directly ([psmit703@outlook.com](mailto:psmit703@outlook.com)) for access to code for school projects)
+##### School Projects (please contant me directly ([psmit703@outlook.com](mailto:psmit703@outlook.com)) for access to code for school projects)
 * Bloom Filter (Python)
-    * CMSC 420 (Advanced Data Structures) at UMD
+    * CMSC420 (Advanced Data Structures) at UMD
     * Spring 2023
 * Pacman-Ghostbusters (Python)
     * CMSC421 (Intro to AI) at UMD
