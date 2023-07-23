@@ -55,23 +55,23 @@ Here are some ideas to get you started:
     * Spring 2023
 * Pacman-Ghostbusters (Python)
     * CMSC421 (Intro to AI) at UMD
-    * Spring 2023
     * Project from UC Berkeley's CS188 Project 4
+    * Spring 2023
 * Reinforcement Learning (Python)
     * CMSC421 (Intro to AI) at UMD
-    * Spring 2023
     * Project from UC Berekely's CS188 Project 3
+    * Spring 2023
 * AVL Tree (Python)
     * CMSC420 (Advanced Data Structures) at UMD
     * Spring 2023
 * Adversarial Search (Python)
     * CMSC421 (Intro to AI) at UMD
-    * Spring 2023
     * Project from UC Berkeley's CS188 Project 2
+    * Spring 2023
 * DFS, BFS, UCS, and A* Search (Python)
     * CMSC421 (Intro to AI) at UMD
-    * Spring 2023
     * Project from UC Berkeley's CS188 Project 1
+    * Spring 2023
 * "MicrOCaml" Lexer, Parser, and Interpreter (OCaml)
     * CMSC330 (Organization of Prog. Langs) at UMD
     * Fall 2022
