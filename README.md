@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 * I'm primarily interested in backend development but also have experience with frontend
 * I am familiar with a wide variety of languages and frameworks
     * Languages: Python, Java, C, Rust, Ruby, OCaml, HTML, CSS, JavaScript, SQL
-    * Frameworks: Bootstrap (CSS), jQuery, Plotly.js
+    * Frameworks: Bootstrap, jQuery, Plotly.js
 
 ---
 
