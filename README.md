@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 #### Personal Projects
 * Personal Website ([GitHub Repo](https://github.com/psmit703/personal-website))
     * Languages: HTML, CSS, JavaScript
-    * Frameworks: Bootstrap, Adobe PDF Embed API
+    * Frameworks: Bootstrap
     * Jun 2023 - Present
 #### Work Projects
 * Comet Informational Site (Code is currently private)
