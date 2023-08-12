@@ -40,16 +40,16 @@ Here are some ideas to get you started:
 
 ### Coding Projects
 #### Personal Projects
-* Personal Website ([GitHub Repo](https://github.com/psmit703/personal-website))
+* Personal Website ( [GitHub Repo](https://github.com/psmit703/personal-website) )
     * Languages: HTML, CSS, JavaScript
     * Frameworks: Bootstrap
     * Jun 2023 - Present
 #### Work Projects
-* Comet Informational Site (Code is currently private)
+* Comet Statistic Site (Code is currently private)
     * Languages: HTML, CSS, JavaScript, Python
     * Frameworks: Bootstrap, Plotly.js, jQuery
     * Jun 2023 - Present
-#### School Projects (please contant me directly ([psmit703@outlook.com](mailto:psmit703@outlook.com)) for access to code for school projects)
+#### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
 * Bloom Filter (Python)
     * CMSC420 (Advanced Data Structures) at UMD
     * Spring 2023
