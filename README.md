@@ -54,6 +54,12 @@ Here are some ideas to get you started:
     * Frameworks: Bootstrap, Plotly.js, jQuery
     * Jun 2023 - Present
 #### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
+* Dupe Plus: Parser, Interpreter, and Compiler (Racket)
+    * CMSC430 (Intro to Compilers) at UMD
+    * Fall 2023
+* Intro to Racket (Racket)
+    * CMSC430 (Intro to Compilers) at UMD
+    * Fall 2023
 * Bloom Filter (Python)
     * CMSC420 (Advanced Data Structures) at UMD
     * Spring 2023
