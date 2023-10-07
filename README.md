@@ -44,10 +44,6 @@ Here are some ideas to get you started:
     * Languages: HTML, CSS, JavaScript
     * Frameworks: Bootstrap
     * Jun 2023 - Present
-* Vertical Indent Lines (Notion) ( [GitHub Repo](https://github.com/psmit703/notion-indent-lines) )
-    * Languages: JavaScript
-    * Not affiliated with Notion
-    * Aug 2023 - Present
 #### Work Projects
 * Comet Statistic Site (Code is currently private)
     * Languages: HTML, CSS, JavaScript, Python
