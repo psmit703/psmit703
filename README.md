@@ -65,7 +65,7 @@ Here are some ideas to get you started:
     * Spring 2023
 * Reinforcement Learning (Python)
     * CMSC421 (Intro to AI) at UMD
-    * Project from UC Berekely's CS188 Project 3
+    * Project from UC Berekeley's CS188 Project 3
     * Spring 2023
 * AVL Tree (Python)
     * CMSC420 (Advanced Data Structures) at UMD
@@ -79,5 +79,5 @@ Here are some ideas to get you started:
     * Project from UC Berkeley's CS188 Project 1
     * Spring 2023
 * "MicrOCaml" Lexer, Parser, and Interpreter (OCaml)
-    * CMSC330 (Organization of Prog. Langs) at UMD
+    * CMSC330 (Organization of Programming Languages) at UMD
     * Fall 2022
