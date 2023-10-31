@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! I'm Pete Smith
+# Hi! I'm Pete Smith
 
 ---
 
