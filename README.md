@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 * Fraud Plus: Interpreter and Compiler (Racket)
   * CMSC430 (Intro to Compilers) at UMD
-  * Oct 2023 - Oct 2023
+  * Oct 2023 - Nov 2023
 * Dupe Plus: Parser, Interpreter, and Compiler (Racket)
   * CMSC430 (Intro to Compilers) at UMD
   * Sept 2023 - Oct 2023
