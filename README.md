@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Website: [psmit.dev/](https://www.psmit.dev/)
+## Website: [https://www.psmit.dev/](https://www.psmit.dev/)
 
 ## Email: [psmit703@outlook.com](mailto:psmit703@outlook.com)
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## LinkedIn: [in/petesmith-umd](https://www.linkedin.com/in/petesmith-umd/)
 
-## Résumé: [psmit.dev/resume.html](https://www.psmit.dev/resume.html)
+## Résumé: [https://www.psmit.dev/resume.html](https://www.psmit.dev/resume.html)
 
 ---
 
