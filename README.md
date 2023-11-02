@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 
 ### Personal Projects
 
+* Cross-Paradigm Programming Language ( [GitHub Repo](https://github.com/psmit703/cross-paradigm-prog-lang) )
+  * Languages: CPPL (this is the language being implemented); Python
+  * Nov 2023 - Present
+* Red Dead Redemption 2 Mod Manager ( [GitHub Repo](https://github.com/psmit703/rdr2-mod-loader) )
+  * Languages: Python
+  * Frameworks: Qt (PyQt5) GUI
+  * Sep 2023 - Present
 * Personal Website ( [GitHub Repo](https://github.com/psmit703/personal-website) )
   * Languages: HTML, CSS, JavaScript
   * Frameworks: Bootstrap
