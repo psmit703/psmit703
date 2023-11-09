@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 * Comet Statistics (Code is currently private)
   * Languages: HTML, CSS, JavaScript, Python, SQL
   * Frameworks: Bootstrap, Plotly.js, jQuery
+  * Presented site at 33rd annual ADASS conference on Nov 8, 2023
   * Jun 2023 - Present
 
 ### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
