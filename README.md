@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 
 ### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
 
+* Squid Games (Racket)
+  * CMSC430 (Intro to Compilers) at UMD
+  * Nov 2023 - Nov 2023
 * Fraud Plus: Interpreter and Compiler (Racket)
   * CMSC430 (Intro to Compilers) at UMD
   * Oct 2023 - Nov 2023
