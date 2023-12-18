@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 
 ### Personal Projects
 
-* Advent of Code 2023 ( [My Solutions (GitHub Repo)](https://github.com/psmit703/advent-of-code-2023) )
-  * Languages: Python
-  * Dec 2023 - Present
 * Red Dead Redemption 2 Mod Manager ( [GitHub Repo](https://github.com/psmit703/rdr2-mod-loader) )
   * Languages: Python
   * Frameworks: Qt (PyQt5) GUI
