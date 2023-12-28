@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 * Personal Website ( [GitHub Repo](https://github.com/psmit703/personal-website) )
   * Languages: HTML, CSS, JavaScript
   * Frameworks: Bootstrap
-  * Jun 2023 - Present
+  * Jun 2023 - Dec 2023
 
 ### Work Projects
 
@@ -63,16 +63,15 @@ Here are some ideas to get you started:
   * Languages: HTML, CSS, JavaScript, Python, SQL
   * Frameworks: Bootstrap, Plotly.js, jQuery
   * Presented site at 33rd annual ADASS conference on Nov 8, 2023
-  * Jun 2023 - Present
-
+  * Jun 2023 - Dec 2023
 ### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
 
 * Final Project: Multiple Return Values (Racket, x86)
   * CMSC430 (Intro to Compilers) at UMD
-  * Dec 2023 - Dec 2023
+  * Dec 2023
 * Squid Games (Racket)
   * CMSC430 (Intro to Compilers) at UMD
-  * Nov 2023 - Nov 2023
+  * Nov 2023
 * Fraud Plus: Interpreter and Compiler (Racket, x86)
   * CMSC430 (Intro to Compilers) at UMD
   * Oct 2023 - Nov 2023
@@ -81,14 +80,14 @@ Here are some ideas to get you started:
   * Sept 2023 - Oct 2023
 * Intro to Racket (Racket)
   * CMSC430 (Intro to Compilers) at UMD
-  * Sep 2023 - Sep 2023
+  * Sep 2023
 * Bloom Filter (Python)
   * CMSC420 (Advanced Data Structures) at UMD
-  * May 2023 - May 2023
+  * May 2023
 * Pacman-Ghostbusters (Python)
   * CMSC421 (Intro to AI) at UMD
   * Project from UC Berkeley's CS188 Project 4
-  * May 2023 - May 2023
+  * May 2023
 * Reinforcement Learning (Python)
   * CMSC421 (Intro to AI) at UMD
   * Project from UC Berekeley's CS188 Project 3
@@ -103,7 +102,7 @@ Here are some ideas to get you started:
 * DFS, BFS, UCS, and A* Search (Python)
   * CMSC421 (Intro to AI) at UMD
   * Project from UC Berkeley's CS188 Project 1
-  * Feb 2023 - Feb 2023
+  * Feb 2023
 * "MicrOCaml" Lexer, Parser, and Interpreter (OCaml)
   * CMSC330 (Organization of Programming Languages) at UMD
-  * Nov 2022 - Nov 2022
+  * Nov 2022
