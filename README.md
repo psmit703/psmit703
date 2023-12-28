@@ -67,13 +67,16 @@ Here are some ideas to get you started:
 
 ### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
 
+* Final Project: Multiple Return Values (Racket, x86)
+  * CMSC430 (Intro to Compilers) at UMD
+  * Dec 2023 - Dec 2023
 * Squid Games (Racket)
   * CMSC430 (Intro to Compilers) at UMD
   * Nov 2023 - Nov 2023
-* Fraud Plus: Interpreter and Compiler (Racket)
+* Fraud Plus: Interpreter and Compiler (Racket, x86)
   * CMSC430 (Intro to Compilers) at UMD
   * Oct 2023 - Nov 2023
-* Dupe Plus: Parser, Interpreter, and Compiler (Racket)
+* Dupe Plus: Parser, Interpreter, and Compiler (Racket, x86)
   * CMSC430 (Intro to Compilers) at UMD
   * Sept 2023 - Oct 2023
 * Intro to Racket (Racket)
