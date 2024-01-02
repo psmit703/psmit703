@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 * I'm a Computer Science and History double-major and Trumpet Performance minor at the University of Maryland, College Park
 * I'm primarily interested in backend development but also have experience with frontend
-* I have tangential interests in compilers and programming language paradigms
+* I have general interests in programming languages and their implementations
 * I am familiar with a wide variety of languages and frameworks
   * Languages: Python, Java, C, Rust, Ruby, OCaml, Racket, HTML, CSS, JavaScript, SQL
   * Frameworks: Bootstrap, jQuery, Plotly.js
