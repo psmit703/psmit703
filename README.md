@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   * Jun 2023 - Dec 2023
 ### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
 
-* Final Project: Multiple Return Values (Racket, x86)
+* CMSC430 Final Project: Multiple Return Values (Racket, x86)
   * CMSC430 (Intro to Compilers) at UMD
   * Dec 2023
 * Squid Games (Racket)
