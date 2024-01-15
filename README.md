@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 
 ### Personal Projects
 
+* Minecraft (Java Edition) Auto Backups
+  * Languages: Python
+  * Jan 2024
 * Red Dead Redemption 2 Mod Manager ( [GitHub Repo](https://github.com/psmit703/rdr2-mod-loader) )
   * Languages: Python
   * Frameworks: Qt (PyQt5) GUI
