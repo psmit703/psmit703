@@ -51,10 +51,6 @@ Here are some ideas to get you started:
 * Minecraft (Java Edition) Auto Backups ( [GitHub Repo](https://github.com/psmit703/minecraft-auto-backup) )
   * Languages: Python
   * Jan 2024
-* Red Dead Redemption 2 Mod Manager ( [GitHub Repo](https://github.com/psmit703/rdr2-mod-loader) )
-  * Languages: Python
-  * Frameworks: Qt (PyQt5) GUI
-  * Sep 2023 - Present
 * Personal Website ( [GitHub Repo](https://github.com/psmit703/personal-website) )
   * Languages: HTML, CSS, JavaScript
   * Frameworks: Bootstrap
