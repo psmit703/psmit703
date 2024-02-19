@@ -58,8 +58,11 @@ Here are some ideas to get you started:
 
 ### Work Projects
 
+* Comet Discovery Verification (Code is currently private)
+  * Languages: Python, PostgreSQL
+  * Dec 2023 - Feb 2024
 * Comet Statistics (Code is currently private)
-  * Languages: HTML, CSS, JavaScript, Python, SQL
+  * Languages: HTML, CSS, JavaScript, Python, PostgreSQL
   * Frameworks: Bootstrap, Plotly.js, jQuery
   * Presented site at 33rd annual ADASS conference on Nov 8, 2023
   * Jun 2023 - Dec 2023
