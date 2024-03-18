@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 
 ### Personal Projects
 
+* Static Site Generator ( [GitHub Repo](https://github.com/psmit703/static-site-generator) )
+  * Languages: Python
+  * Mar 2024 - Present
 * MS Outlook Bigger Reading Pane ( [GitHub Repo](https://github.com/psmit703/outlook-web-better-viewing-experience) )
   * Languages: JavaScript
   * Mar 2024
@@ -69,6 +72,7 @@ Here are some ideas to get you started:
   * Frameworks: Bootstrap, Plotly.js, jQuery
   * Presented site at 33rd annual ADASS conference on Nov 8, 2023
   * Jun 2023 - Dec 2023
+
 ### School Projects (please contant me directly ( [psmit703@outlook.com](mailto:psmit703@outlook.com) ) for access to code for school projects)
 
 * CMSC430 Final Project: Multiple Return Values (Racket, x86)
