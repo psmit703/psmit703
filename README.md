@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 * Static Site Generator ( [GitHub Repo](https://github.com/psmit703/static-site-generator) )
   * Languages: Python
   * Mar 2024 - Present
-* MS Outlook Bigger Reading Pane ( [GitHub Repo](https://github.com/psmit703/outlook-web-better-viewing-experience) )
-  * Languages: JavaScript
-  * Mar 2024
 * Minecraft (Java Edition) Auto Backups ( [GitHub Repo](https://github.com/psmit703/minecraft-auto-backup) )
   * Languages: Python
   * Jan 2024
